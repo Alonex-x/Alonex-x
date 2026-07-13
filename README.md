@@ -1,6 +1,11 @@
-### Alone | Solucionador Técnico
+<div>
+  <img src="img/cover.png" alt="Logo" width="130" style="float: right; margin-left: 25px; margin-top: -15px; margin-bottom: 5px;">
+  <h3>Alone | Solucionador Técnico</h3>
+  <p>Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.</p>
+  <br clear="right">
+</div>
 
-Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
+---
 
 **Stack principal:**
 - Python (Scripting, Scraping, Automatización)
@@ -13,5 +18,4 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 - Configuraciones de seguridad para sitios con alto tráfico
 - Herramientas de análisis de datos desde fuentes públicas
 
-**Disponible para colaboraciones.**
-Contacto: Reddit (u/alonex_x1)
+**Disponible para colaboraciones.** Contacto: Reddit (u/alonex_x1)
