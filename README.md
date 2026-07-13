@@ -1,17 +1,14 @@
 <div align="center">
-  <svg width="450" height="70" xmlns="http://www.w3.org/2000/svg">
-    <rect width="100%" height="100%" fill="transparent" />
-    <text x="50%" y="50%" font-family="monospace" font-size="28" fill="#58a6ff" text-anchor="middle" dominant-baseline="middle">
+  <svg width="450" height="60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" font-family="monospace" font-size="28" fill="#c9d1d9" text-anchor="middle" dominant-baseline="middle">
       Hi, I am Alone
-      <tspan>
+      <tspan fill="#58a6ff">
         _
-        <animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
       </tspan>
     </text>
   </svg>
 </div>
-
-<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300" align="right">
 
 ### Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
