@@ -1,4 +1,4 @@
-<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px; margin-top: 20px;">
+<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px; margin-top: 40px;">
 
 ### Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
