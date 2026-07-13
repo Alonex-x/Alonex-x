@@ -1,6 +1,7 @@
-<div style="padding-top: 70px; display: inline-block; float: right; margin-left: 20px; margin-bottom: 10px;">
-  <img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300">
-</div>
+<table border="0" frame="void" rules="none" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align: top; padding-right: 25px; border: none;">
+
 ### Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
 
@@ -10,7 +11,14 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 - Linux (Bash, Administración de Servidores)
 - Herramientas de IA (Prompt Engineering)
 
-<br clear="right">
+</td>
+<td style="vertical-align: top; padding-top: 40px; border: none;">
+  <img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300">
+</td>
+</tr>
+</table>
+
+<br clear="both">
 
 ---
 
