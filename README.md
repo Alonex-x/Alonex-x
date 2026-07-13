@@ -1,5 +1,6 @@
-<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300" align="right" style="margin-left: 20px; margin-bottom: 10px;" vspace="70">
-
+<div style="padding-top: 70px; display: inline-block; float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300">
+</div>
 ### Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
 
