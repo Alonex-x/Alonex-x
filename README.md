@@ -9,8 +9,8 @@
     </text>
   </svg>
 </div>
-
-### Alone | Solucionador Técnico
+<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="300" align="right">
+ Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
 
 **Stack principal:**
