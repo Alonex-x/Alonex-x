@@ -1,5 +1,5 @@
 <div>
-  <img src="img/cover.png" alt="Logo" width="130" style="float: right; margin-left: 25px; margin-top: -15px; margin-bottom: 5px;">
+  <img src="img/Wallpaper%20PC.jpg" alt="Alone" width="130" style="float: right; margin-left: 25px; margin-top: -15px; margin-bottom: 5px;">
   <h3>Alone | Solucionador Técnico</h3>
   <p>Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.</p>
   <br clear="right">
