@@ -1,4 +1,4 @@
-<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px; margin-top: 5px;">
+<img src="img/Wallpaper%20PC.jpg" alt="Alone" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px; margin-top: 20px;">
 
 ### Alone | Solucionador Técnico
 Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
@@ -12,3 +12,10 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 <br clear="right">
 
 ---
+
+**Proyectos:**
+- Scripts de automatización para tareas repetitivas
+- Configuraciones de seguridad para sitios con alto tráfico
+- Herramientas de análisis de datos desde fuentes públicas
+
+**Disponible para colaboraciones.** Contacto: Reddit (u/alonex_x1)
