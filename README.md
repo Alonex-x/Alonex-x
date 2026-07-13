@@ -1,16 +1,17 @@
-## Hi there 👋
+### Alone | Solucionador Técnico
 
-<!--
-**Alonex-x/Alonex-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador especializado en automatización de procesos, extracción de datos y configuración de servidores.
 
-Here are some ideas to get you started:
+**Stack principal:**
+- Python (Scripting, Scraping, Automatización)
+- WordPress (Optimización, Migración, Seguridad)
+- Linux (Bash, Administración de Servidores)
+- Herramientas de IA (Prompt Engineering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos:**
+- Scripts de automatización para tareas repetitivas
+- Configuraciones de seguridad para sitios con alto tráfico
+- Herramientas de análisis de datos desde fuentes públicas
+
+**Disponible para colaboraciones.**
+Contacto: Reddit (u/alonex_x1)
