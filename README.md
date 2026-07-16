@@ -26,6 +26,7 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### Tools & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,6 +47,7 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/alonex_x1)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alonex-x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alonex_x.com@proton.me)
+
 ## GitHub Stats
 
 <div align="center">
@@ -53,6 +55,3 @@ Desarrollador especializado en automatización de procesos, extracción de datos
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alonex-x&theme=dark" alt="Top Languages" />
 </div>
-
-
-
