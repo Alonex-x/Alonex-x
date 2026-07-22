@@ -11,7 +11,7 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 - Python (Scripting, Scraping, Automatización)
 - WordPress (Optimización, Migración, Seguridad)
 - Linux (Bash, Administración de Servidores)
-- Herramientas de IA (Prompt Engineering)
+- conocimiento en ciberseguridad | hacking ético 
 
 <br clear="right">
 
