@@ -58,8 +58,8 @@ Desarrollador especializado en automatización de procesos, extracción de datos
 
 ---
 
-```markdown
-# Nexus Ecosystem
+
+ Nexus Ecosystem
 
 Sistema modular de agentes de software autónomos. Cada componente se comunica a través de una API REST central, permitiendo registro, asignación de misiones, reporte de eventos y supervisión en tiempo real.
 
@@ -107,6 +107,3 @@ graph TD
 
 - **Nexus Terminal (demo en vivo):** [alonex-x.github.io/nexus-terminal](https://alonex-x.github.io/nexus-terminal)
 - **Video del scraper en acción:** [Ver demo](https://raw.githubusercontent.com/Alonex-x/nexus-scraper/main/demos/demo-scraper.mp4)
-```
-
----
